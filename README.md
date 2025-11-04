@@ -1,4 +1,4 @@
-[简体中文](docs/README_CN.md)
+
 
 ---
 
